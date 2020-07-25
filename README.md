@@ -1,2 +1,2 @@
-# pentabyte-io.github.io
-pentabyte.io Website
+# pentabyte.io
+This is the public repo used for service the pentabyte.io website.
